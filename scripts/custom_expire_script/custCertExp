@@ -1,0 +1,1 @@
+30 01 * * * /etc/custCertExp/cust_certexpire.sh
