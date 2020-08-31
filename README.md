@@ -1,15 +1,16 @@
+![PrimeKey](primekey_logo.png)
 # Description
-Small tools, that are not part of the EJBCA product, for usage with EJBCA
-
-Tools are provided as is, and you are free to customize and tweak to your use case. 
+Tools, that are not part of the EJBCA product, for usage with EJBCA. The tools are provided _as is_, and you are free to customize accordingly for your use case. 
 
 Have fun!
 
-# Contribute 
-We are glad to get pull requests for improvements to the tools. 
+# Community supported 
+We welcome contributions.
 
-## No support
-"Not part of the product" means that they are not officially supported tools, and they may work or not depending on your version of EJBCA and the tools.
+These tools are open source and community supported, meaning that there is **no SLA** applicable for these tools. 
+
+To report a problem or suggest a new feature, use the **[Issues](../../issues)** tab. If you want to contribute actual bug fixes or proposed enhancements, use the **[Pull requests](../../pulls)** tab.
 
 # License
-LGPL v2.1 or later.
+LGPL v2.1 or later, unless mentioned otherwise.
+
