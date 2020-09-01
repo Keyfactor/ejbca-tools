@@ -1,5 +1,5 @@
 ![PrimeKey](primekey_logo.png)
-# Description
+# EJBCA Tools
 Tools, that are not part of the EJBCA product, for usage with EJBCA. The tools are provided _as is_, and you are free to customize accordingly for your use case. 
 
 Have fun!
