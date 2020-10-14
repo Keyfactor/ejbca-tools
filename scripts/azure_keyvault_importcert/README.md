@@ -21,6 +21,6 @@ Example command to import keystore 'keystore.p12' that is protected with the pas
 
 ### Using from EJBCA
 
-Issuing P12 keystores in batch from EJBCA is a common task that can be done through several ways. During the generation process this script can be called to populate Azure Key Vault with the issued certificates and private keys.
+Issuing P12 keystores in batch from EJBCA is a common task that can be done in many ways. During the generation process this script can be called to populate Azure Key Vault with the issued certificates and private keys.
 You can also use this script to test and get the REST API commands to call directly to Key Vault form within the keystore generation process.
 
