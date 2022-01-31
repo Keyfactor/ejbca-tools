@@ -13,3 +13,6 @@ To report a problem or suggest a new feature, use the **[Issues](../../issues)**
 
 # License
 LGPL v2.1 or later, unless mentioned otherwise.
+
+# Related projects
+* [EJBCA](https://github.com/primekeydevs/ejbca-ce)
