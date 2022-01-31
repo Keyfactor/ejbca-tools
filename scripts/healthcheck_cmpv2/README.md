@@ -6,7 +6,7 @@
 
 Nagios check to monitor CMPv2 (HTTP) interface, written in Python.
 
-A CMP certConf request is sent and the pkiConf response is parsed.
+A CMP certConf request is sent and the pkiConf response is parsed. This does not perform any actual operation on the server
 See https://jira.primekey.se/browse/ECA-6871
 
 No good lightweight CMP library was found. So I decided to build the (ASN.1
