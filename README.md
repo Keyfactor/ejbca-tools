@@ -1,3 +1,5 @@
+**This repository is no longer maintained as of Feburary 20, 2026.** 
+
 ![PrimeKey](primekey_logo.png)
 # EJBCA Tools
 Tools, that are not part of the EJBCA product, for usage with EJBCA. The tools are provided _as is_, and you are free to customize accordingly for your use case. 
